@@ -1,0 +1,90 @@
+[
+    {
+        "Title": "Teleportation / Teleportacja",
+        "TitleGeneric": "",
+        "Description": "Sigfrid przechodzi do innej lokacji (Cloister), nawet jeśli nie jest połączona z bieżącą lokacją.",
+        "Override": 0,
+        "LSide": {
+        "Locations": [
+            {
+            "Id": "179",
+            "Attributes": {},
+            "Characters": [
+                {
+                    "Id": "Siegfried",
+                    "IsObject": true,
+                    "Attributes": {},
+                    "Characters": [],
+                    "Items": [],
+                    "Narration": [
+                        {
+                            "Id": "Mission",
+                            "Attributes": {
+                                "Knowledge": "Townfolks are disappearing in the cemetery"
+                            }
+                        }
+                    ]
+                }
+            ],
+            "Items": []
+            },
+            {
+                "Name": "Cloister",
+                "Connections": [        
+                    {
+                        "Destination": "57"
+                    }
+                ]
+            }
+        ]
+        },
+        "RSide": {},
+        "Instructions": [
+            {
+                "Op": "move",
+                "Nodes": "Siegfried",
+                "To": "Cloister/Characters"
+            }
+        ]
+    },
+    {
+        "Title": "Teleportation / Teleportacja",
+        "TitleGeneric": "",
+        "Description": "Main_Hero przechodzi do innej lokacji (Cloister), nawet jeśli nie jest połączona z bieżącą lokacją.",
+        "Override": 0,
+        "LSide": {
+        "Locations": [
+            {
+                "Id": "Somewhere",
+                "Attributes": {},
+                "Characters": [
+                    {
+                        "Id": "Main_Hero",
+                        "IsObject": true,
+                        "Attributes": {},
+                        "Characters": [],
+                        "Items": []
+                    }
+                ],
+                "Items": []
+            },
+            {
+                "Name": "Cloister",
+                "Connections": [
+                    {
+                        "Destination": "57"
+                    }
+                ]
+            }
+        ]
+        },
+        "RSide": {},
+        "Instructions": [
+            {
+            "Op": "move",
+            "Nodes": "Main_Hero",
+            "To": "Cloister/Characters"
+            }
+        ]
+    }
+]
