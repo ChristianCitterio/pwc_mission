@@ -1,7 +1,7 @@
 [
   {
     "Title": "Gain Money / Pozyskanie pieniędzy",
-    "TitleGeneric": "",
+    "TitleGeneric": "Character\u2019s feature change / Zmiana własności postaci",
     "Description": "«CharacterA» otrzymuje Pieniędzy.",
     "Override": 0,
     "LSide": {
@@ -34,7 +34,7 @@
   },
   {
     "Title": "Gain experience / Pozyskanie experience",
-    "TitleGeneric": "",
+    "TitleGeneric": "Character\u2019s feature change / Zmiana własności postaci",
     "Description": "«CharacterA» otrzymuje experience.",
     "Override": 0,
     "LSide": {
@@ -56,7 +56,7 @@
     },
     "RSide": {},
     "Preconditions": [],
-    "Comment": "Nie da się dodać zastrzeżenia o duplikatach bez odwołania do nazwy",
+    "Comment": "",
     "Instructions": [
       {
         "Op": "set",
@@ -66,8 +66,8 @@
     ]
   },
   {
-    "Title": "Fight ending with character’s A death / Walka zakończona śmiercią uczestnika A",
-    "TitleGeneric": "Character’s death / Śmierć bohatera",
+    "Title": "Fight ending with character\u2019s A death / Walka zakończona śmiercią uczestnika A",
+    "TitleGeneric": "Character\u2019s death / Śmierć bohatera",
     "Description": "«CharacterA» i «CharacterB» podejmują walkę, w której «CharacterA» ginie.",
     "Override": 0,
     "LSide": {
@@ -125,8 +125,8 @@
     ]
   },
   {
-    "Title": "Fight ending with character’s A death and B gain exp / Walka zakończona śmiercią uczestnika A i B otrzyma exp.",
-    "TitleGeneric": "Character’s death / Śmierć bohatera",
+    "Title": "Fight ending with character\u2019s A death and B gain exp / Walka zakończona śmiercią uczestnika A i B otrzyma exp.",
+    "TitleGeneric": "Character\u2019s death / Śmierć bohatera",
     "Description": "«CharacterA» i «CharacterB» podejmują walkę, w której «CharacterA» ginie I <<CharacterB>> otrzebuje exp.",
     "Override": 0,
     "LSide": {

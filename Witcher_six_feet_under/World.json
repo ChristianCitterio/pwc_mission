@@ -122,14 +122,6 @@
                   "Value": 10
                 }
               }
-            ],
-            "Narration": [
-              {
-                "Name": "Drowners problem",
-                "Attributes": {
-                  "Knowledge": " Drowners attack clay pits"
-                }
-              }
             ]
           }
         ]
@@ -285,7 +277,7 @@
             },
             "Items": [
               {
-                "Name": "Grtaveir bone",
+                "Name": "Graveir bone",
                 "Attributes": {
                   "Value": 10
                 }
@@ -324,6 +316,13 @@
           },
           {
             "Name": "Wraith",
+            "Attributes": {
+              "HP": 100,
+              "Money": 10
+            }
+          },
+          {
+            "Name": "Necrophage",
             "Attributes": {
               "HP": 100,
               "Money": 10
@@ -2959,15 +2958,7 @@
             "Attributes": {
               "HP": 100,
               "Money": 10
-            },
-            "Narration": [
-              {
-                "Name": "Ithlinne\u2019s Prophecy",
-                "Attributes": {
-                  "Knowledge": ""
-                }
-              }
-            ]
+            }
           },
           {
             "Name": "Shani",
@@ -2981,15 +2972,7 @@
             "Attributes": {
               "HP": 100,
               "Money": 10
-            },
-            "Narration": [
-              {
-                "Name": "Safe Haven Contract",
-                "Attributes": {
-                  "Knowledge": ""
-                }
-              }
-            ]
+            }
           },
           {
             "Name": "Fat Fred",
@@ -3279,15 +3262,7 @@
             "Attributes": {
               "HP": 100,
               "Money": 10
-            },
-            "Narration": [
-              {
-                "Name": "Basics of dice poker",
-                "Attributes": {
-                  "Knowledge": ""
-                }
-              }
-            ]
+            }
           },
           {
             "Name": "Scoia\u2019tael",
@@ -3494,6 +3469,21 @@
             ]
           },
           {
+            "Name": "Ghoul",
+            "Attributes": {
+              "HP": 100,
+              "Money": 10
+            },
+            "Items": [
+              {
+                "Name": "Ghoul blood",
+                "Attributes": {
+                  "Value": 10
+                }
+              }
+            ]
+          },
+          {
             "Name": "Innocents",
             "Attributes": {
               "HP": 100,
@@ -3502,6 +3492,13 @@
           },
           {
             "Name": "Scoia\u2019tael",
+            "Attributes": {
+              "HP": 100,
+              "Money": 10
+            }
+          },
+          {
+            "Name": "Necrophage",
             "Attributes": {
               "HP": 100,
               "Money": 10
