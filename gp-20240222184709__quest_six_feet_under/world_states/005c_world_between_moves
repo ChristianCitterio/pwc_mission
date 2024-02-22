@@ -1,0 +1,1078 @@
+digraph {
+	overlap=false
+	splines=true
+	dpi=150
+	ratio=fill
+	labelloc=t
+	label=< Świat w oczekiwaniu na ruch gracza<BR/><BR/><FONT POINT-SIZE="10">Pomiędzy kolejnymi produkcjami</FONT><BR/> >
+	v1 [label=< Black Tern Island > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v2 [label=< Royal wyvern<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v2 -> v1
+	v3 [label=< Wyvern eggs<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v3 -> v2
+	v4 [label=< Lady of the Lake<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v4 -> v1
+	v5 [label=< Aerondight<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v5 -> v4
+	v6 [label=< Ruby<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v6 -> v4
+	v7 [label=< Dagon’s follower<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v7 -> v1
+	v8 [label=< Dagon<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v8 -> v1
+	v9 [label=< Drowner<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v9 -> v1
+	v10 [label=< Basilisk<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v10 -> v1
+	v11 [label=< Basilisk hide<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v11 -> v10
+	v12 [label=< Vaska’s hut > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v13 [label=< Vaska<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v13 -> v12
+	v14 [label=< Hymns of Madness and Despair<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v14 -> v13
+	v15 [label=< Kezath<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v15 -> v13
+	v16 [label=< Tower tarot card<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v16 -> v13
+	v17 [label=< Swamp > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v18 [label=< Kikimore<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v18 -> v17
+	v19 [label=< Kikimore claw<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v19 -> v18
+	v20 [label=< Lionhead Spider Cultists’ lair > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v21 [label=< Salamanders<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v21 -> v20
+	v22 [label=< Dog tallow<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v22 -> v20
+	v23 [label=< Gate to the dike > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v24 [label=< Gate to the Cemetery > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v25 [label=< Vizima cemetery > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v26 [label=< Honeysuckle<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v26 -> v25
+	v27 [label=< Celandine<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v27 -> v25
+	v28 [label=< Crow’s eye<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v28 -> v25
+	v29 [label=< Corpse of a woman<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v29 -> v25
+	v30 [label=< Not_eaten<BR/><FONT POINT-SIZE="10">Knowledge: 'It seems to be stabbed and not…'</FONT> > bgcolor="#E1D5E7" color="#E1D5E7" shape=box style="filled,rounded"]
+	v30 -> v29
+	v31 [label=< Vetala<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v31 -> v25
+	v32 [label=< True_Kidnappers<BR/><FONT POINT-SIZE="10">Knowledge: 'The true kidnappers are the Sc…'</FONT> > bgcolor="#E1D5E7" color="#E1D5E7" shape=box style="filled,rounded"]
+	v32 -> v31
+	v33 [label=< Ghoul<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v33 -> v25
+	v34 [label=< Ghoul blood<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v34 -> v33
+	v35 [label=< Necrophage<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v35 -> v25
+	v36 [label=< Geralt<BR/><FONT POINT-SIZE="10">HP: 1000, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v36 -> v25
+	v37 [label=< Mission<BR/><FONT POINT-SIZE="10">Knowledge: 'Townfolks are disappearing in …'</FONT> > bgcolor="#E1D5E7" color="#E1D5E7" shape=box style="filled,rounded"]
+	v37 -> v36
+	v38 [label=< Not_eaten<BR/><FONT POINT-SIZE="10">Knowledge: 'It seems to be stabbed and not…'</FONT> > bgcolor="#E1D5E7" color="#E1D5E7" shape=box style="filled,rounded"]
+	v38 -> v36
+	v39 [label=< Vizima sewers > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v40 [label=< Drowner<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v40 -> v39
+	v41 [label=< Ren Grouver<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v41 -> v39
+	v42 [label=< Fleder<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v42 -> v39
+	v43 [label=< Fleder Fang<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v43 -> v42
+	v44 [label=< Con artist<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v44 -> v39
+	v45 [label=< Muscleman<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v45 -> v39
+	v46 [label=< Vizima dike > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v47 [label=< Carmen<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v47 -> v46
+	v48 [label=< Ferryman<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v48 -> v46
+	v49 [label=< Mecenary guard<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v49 -> v46
+	v50 [label=< Shrine of Melitele > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v51 [label=< Desperate merchant<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v51 -> v50
+	v52 [label=< Coccacidium<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v52 -> v50
+	v53 [label=< Salamandra hideout > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v54 [label=< Assasins<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v54 -> v53
+	v55 [label=< Chemists<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v55 -> v53
+	v56 [label=< Chemist chef<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v56 -> v53
+	v57 [label=< Formula for the Petri’s Philter potion<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v57 -> v56
+	v58 [label=< Radovid<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v58 -> v53
+	v59 [label=< Hartmann’s mirror<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v59 -> v53
+	v60 [label=< Power stone<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v60 -> v53
+	v61 [label=< Seeing stone<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v61 -> v53
+	v62 [label=< Brickmakers village > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v63 [label=< Shrine of Melitele > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v64 [label=< Ring<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v64 -> v63
+	v65 [label=< Coccacidium<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v65 -> v63
+	v66 [label=< Lumberjacks glade > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v67 [label=< Yaren Bolt<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v67 -> v66
+	v68 [label=< Yaren’s axe<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v68 -> v67
+	v69 [label=< Villagers<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v69 -> v66
+	v70 [label=< Salamandra guards<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v70 -> v66
+	v71 [label=< Ferry landing > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v72 [label=< Jean-Pierre<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v72 -> v71
+	v73 [label=< Carmen<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v73 -> v71
+	v74 [label=< Ferryman<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v74 -> v71
+	v75 [label=< Vizima cemetery gates > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v76 [label=< Hildegard Zollstock<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v76 -> v75
+	v77 [label=< Gate to the dike > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v78 [label=< Mage’s tower > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v79 [label=< Alghoul<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v79 -> v78
+	v80 [label=< Alghoul marrow<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v80 -> v79
+	v81 [label=< Old Vizima > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v82 [label=< Jean-Pierre<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v82 -> v81
+	v83 [label=< Nurses<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v83 -> v81
+	v84 [label=< White Rayla<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v84 -> v81
+	v85 [label=< Squirrel Puffs from Scoia_tael bodies<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v85 -> v84
+	v86 [label=< Jacques de Aldersberg<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v86 -> v81
+	v87 [label=< Madman<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v87 -> v81
+	v88 [label=< Shaggy Bear Tavern > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v89 [label=< Fleder<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v89 -> v88
+	v90 [label=< Fleder Fang<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v90 -> v89
+	v91 [label=< Angus<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v91 -> v88
+	v92 [label=< Golden signet ring<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v92 -> v91
+	v93 [label=< Letter Of Recommendation<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v93 -> v91
+	v94 [label=< Butter Bean<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v94 -> v88
+	v95 [label=< Munro Bruys<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v95 -> v88
+	v96 [label=< Conrad<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v96 -> v88
+	v97 [label=< Ramsmeat<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v97 -> v88
+	v98 [label=< Coleman<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v98 -> v88
+	v99 [label=< Fisstech<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v99 -> v98
+	v100 [label=< Brickmakers quarry > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v101 [label=< Berengar’s bloody belongings<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v101 -> v100
+	v102 [label=< Coccacidium<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v102 -> v100
+	v103 [label=< Kaer Morhen courtyard > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v104 [label=< Lambert<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v104 -> v103
+	v105 [label=< Vesemir<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v105 -> v103
+	v106 [label=< Celandine<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v106 -> v105
+	v107 [label=< Sword<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v107 -> v105
+	v108 [label=< Armor<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v108 -> v105
+	v109 [label=< Triss Merigold<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v109 -> v103
+	v110 [label=< Leo<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v110 -> v103
+	v111 [label=< Eskel<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v111 -> v103
+	v112 [label=< Seagull<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v112 -> v111
+	v113 [label=< Gate to the Trade Quarter > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v114 [label=< Guards of Trade Quarter Gate<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v114 -> v113
+	v115 [label=< Gramps hut > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v116 [label=< Feainnewedd<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v116 -> v115
+	v117 [label=< White myrtle<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v117 -> v115
+	v118 [label=< Beggartick<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v118 -> v115
+	v119 [label=< Archospores<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v119 -> v115
+	v120 [label=< Human remains<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v120 -> v115
+	v121 [label=< Hanged Man’s Venom<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v121 -> v115
+	v122 [label=< Azoth<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v122 -> v115
+	v123 [label=< Vizima dungeon > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v124 [label=< Jethro<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v124 -> v123
+	v125 [label=< Silver Sword<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v125 -> v124
+	v126 [label=< Cloister > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v127 [label=< Siegfried<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v127 -> v126
+	v128 [label=< Mission<BR/><FONT POINT-SIZE="10">Knowledge: 'Townfolks are disappearing in …'</FONT> > bgcolor="#E1D5E7" color="#E1D5E7" shape=box style="filled,rounded"]
+	v128 -> v127
+	v129 [label=< St. Lebioda’s Hospital > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v130 [label=< Verbena<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v130 -> v129
+	v131 [label=< Dog tallow<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v131 -> v129
+	v132 [label=< Distressed nurse<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v132 -> v129
+	v133 [label=< Prisoner<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v133 -> v129
+	v134 [label=< Nurse<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v134 -> v129
+	v135 [label=< Thaler’s place > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v136 [label=< Thaler<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v136 -> v135
+	v137 [label=< Book Forensic Medicine<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v137 -> v136
+	v138 [label=< Collapsed tower > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v139 [label=< Villagers<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v139 -> v138
+	v140 [label=< Salamandra guards<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v140 -> v138
+	v141 [label=< Golem burial ground > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v142 [label=< Frozen golem<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v142 -> v141
+	v143 [label=< Neh’tza<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v143 -> v142
+	v144 [label=< Fool’s Parsley<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v144 -> v141
+	v145 [label=< Golem<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v145 -> v141
+	v146 [label=< Triss house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v147 [label=< New Narakot square > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v148 [label=< House of the queen of the night > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v149 [label=< Bodyguard<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v149 -> v148
+	v150 [label=< Blue eyes<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v150 -> v148
+	v151 [label=< Queen of the night<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v151 -> v148
+	v152 [label=< Vampiresses<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v152 -> v148
+	v153 [label=< Docks > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v154 [label=< Gramps<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v154 -> v153
+	v155 [label=< Kaer Morhen upstairs > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v156 [label=< Kaer Morhen hallway > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v157 [label=< Kaer Morhen main hall > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v158 [label=< Murky Waters > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v159 [label=< Devourer<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v159 -> v158
+	v160 [label=< Shadow dust<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v160 -> v159
+	v161 [label=< Devourer teeth<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v161 -> v159
+	v162 [label=< Celina<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v162 -> v158
+	v163 [label=< Fields > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v164 [label=< Royal wyvern<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v164 -> v163
+	v165 [label=< Wyvern eggs<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v165 -> v164
+	v166 [label=< Noonwraith<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v166 -> v163
+	v167 [label=< Shimmering dust<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v167 -> v166
+	v168 [label=< Shadow dust<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v168 -> v166
+	v169 [label=< Midday bride<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v169 -> v163
+	v170 [label=< Piece of Nehalenia’s Mirror<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v170 -> v169
+	v171 [label=< Devourer<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v171 -> v163
+	v172 [label=< Shadow dust<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v172 -> v171
+	v173 [label=< Nightwraith<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v173 -> v163
+	v174 [label=< Lakeside > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v175 [label=< Zephyr<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v175 -> v174
+	v176 [label=< Turquoise necklace<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v176 -> v175
+	v177 [label=< Drowner<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v177 -> v174
+	v178 [label=< Naiad<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v178 -> v174
+	v179 [label=< Book on the vodyanoi<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v179 -> v178
+	v180 [label=< Earth rune<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v180 -> v178
+	v181 [label=< Toruviel<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v181 -> v174
+	v182 [label=< Crypt in the Fields > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v183 [label=< Ureus<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v183 -> v182
+	v184 [label=< Murky Waters Village > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v185 [label=< White Rayla<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v185 -> v184
+	v186 [label=< Adam<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v186 -> v184
+	v187 [label=< Crypt in the Lakeside > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v188 [label=< Berengar<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v188 -> v187
+	v189 [label=< Berengar’s medallion<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v189 -> v188
+	v190 [label=< Alps<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v190 -> v187
+	v191 [label=< Bruxa<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v191 -> v187
+	v192 [label=< Elven cave > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v193 [label=< Elven craftsman<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v193 -> v192
+	v194 [label=< Chireadan<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v194 -> v192
+	v195 [label=< Blacksmith’s house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v196 [label=< Blacksmith<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v196 -> v195
+	v197 [label=< Blacksmith’s wife<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v197 -> v195
+	v198 [label=< Herbarium (Plants of Barren Lands)<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v198 -> v197
+	v199 [label=< Impassible bridge > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v200 [label=< Mason Harn<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v200 -> v199
+	v201 [label=< Pat<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v201 -> v199
+	v202 [label=< Giant centipede<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v202 -> v199
+	v203 [label=< Chitinous carapace<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v203 -> v202
+	v204 [label=< Riverbank > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v205 [label=< Giant centipede<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v205 -> v204
+	v206 [label=< Chitinous carapace<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v206 -> v205
+	v207 [label=< Drowner<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v207 -> v204
+	v208 [label=< Fisher King’s hut > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v209 [label=< Fisher king<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v209 -> v208
+	v210 [label=< Lady of the Lake’s altar > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v211 [label=< Friendly vodyan priest<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v211 -> v210
+	v212 [label=< Priest’s staff<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v212 -> v211
+	v213 [label=< Golden bracelet<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v213 -> v211
+	v214 [label=< Golden calf<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v214 -> v211
+	v215 [label=< Campfire > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v216 [label=< Country inn > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v217 [label=< Country inn innkeeper<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v217 -> v216
+	v218 [label=< Julian<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v218 -> v216
+	v219 [label=< Alabaster figurine<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v219 -> v218
+	v220 [label=< Gramp’s diamond<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v220 -> v218
+	v221 [label=< Alina’s garland<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v221 -> v218
+	v222 [label=< Rock<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v222 -> v216
+	v223 [label=< Druid’s lantern > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v224 [label=< Wraith<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v224 -> v223
+	v225 [label=< King of the Wild Hunt<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v225 -> v223
+	v226 [label=< Ruins > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v227 [label=< Gambling ghost<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v227 -> v226
+	v228 [label=< Giant centipede<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v228 -> v226
+	v229 [label=< Chitinous carapace<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v229 -> v228
+	v230 [label=< Witch’s hut > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v231 [label=< Mayor’s house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v232 [label=< Tobias Hoffman<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v232 -> v231
+	v233 [label=< Baker’s house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v234 [label=< Baker<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v234 -> v233
+	v235 [label=< Loaf of bread<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v235 -> v234
+	v236 [label=< Alina’s hut > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v237 [label=< Alina<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v237 -> v236
+	v238 [label=< Swamp cemetery > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v239 [label=< Garkain<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v239 -> v238
+	v240 [label=< Trofy<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v240 -> v239
+	v241 [label=< Garkain<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v241 -> v238
+	v242 [label=< Saliva<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v242 -> v241
+	v243 [label=< Raven’s crypt > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v244 [label=< Wraith<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v244 -> v243
+	v245 [label=< Striga crypt > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v246 [label=< Bruxa<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v246 -> v245
+	v247 [label=< Trofy<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v247 -> v246
+	v248 [label=< Striga<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v248 -> v245
+	v249 [label=< Striga heart<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v249 -> v248
+	v250 [label=< Ostrit’s diary<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v250 -> v245
+	v251 [label=< Druids’ cave > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v252 [label=< Corbin<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v252 -> v251
+	v253 [label=< Receipt<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v253 -> v252
+	v254 [label=< Royal huntsman<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v254 -> v251
+	v255 [label=< Kaer Morhen > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v256 [label=< Kaer Morhen room first from hallway > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v257 [label=< Chest<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v257 -> v256
+	v258 [label=< Calcium equum<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v258 -> v257
+	v259 [label=< Throne hall > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v260 [label=< Antoinnette<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v260 -> v259
+	v261 [label=< Money<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v261 -> v260
+	v262 [label=< King Foltest’s chamber > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v263 [label=< Foltest<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v263 -> v262
+	v264 [label=< Chamberlain’s station > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v265 [label=< Chamberlain<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v265 -> v264
+	v266 [label=< Trade quarter > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v267 [label=< Kikimore<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v267 -> v266
+	v268 [label=< Kikimore claw<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v268 -> v267
+	v269 [label=< Royal huntsman<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v269 -> v266
+	v270 [label=< Guard<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v270 -> v266
+	v271 [label=< Gate to New Vizima > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v272 [label=< Guardhouse > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v273 [label=< Velerad<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v273 -> v272
+	v274 [label=< Vizima dungeon > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v275 [label=< Vincent Meis<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v275 -> v274
+	v276 [label=< Gamblers’ den > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v277 [label=< Koster<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v277 -> v276
+	v278 [label=< Gambling ghost<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v278 -> v276
+	v279 [label=< New Narakot > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v280 [label=< New narakort innkeeper<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v280 -> v279
+	v281 [label=< Ekryn von blunt<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v281 -> v279
+	v282 [label=< House of the night Signet<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v282 -> v281
+	v283 [label=< Adda the White<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v283 -> v279
+	v284 [label=< Patrick de weyze<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v284 -> v279
+	v285 [label=< Dandelion<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v285 -> v279
+	v286 [label=< Roderick de Wett<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v286 -> v279
+	v287 [label=< Andrew Gablodda<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v287 -> v279
+	v288 [label=< Mysterious note<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v288 -> v279
+	v289 [label=< Encrypted document<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v289 -> v279
+	v290 [label=< Key<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v290 -> v279
+	v291 [label=< Druids grove > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v292 [label=< Hierophant<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v292 -> v291
+	v293 [label=< Wyvern<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v293 -> v291
+	v294 [label=< Yaevinn<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v294 -> v291
+	v295 [label=< Merchant Street > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v296 [label=< Antiquary<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v296 -> v295
+	v297 [label=< Book Forensic Medicine<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v297 -> v296
+	v298 [label=< Book Zerrikanian Insects and Other Vermin<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v298 -> v296
+	v299 [label=< Pankieras’ house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v300 [label=< Rozalind pankiera<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v300 -> v299
+	v301 [label=< Rozalind pankiera’s father<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v301 -> v299
+	v302 [label=< Dandelion’s lute<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v302 -> v299
+	v303 [label=< Tanners square > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v304 [label=< Blacksmith<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v304 -> v303
+	v305 [label=< Detective’s house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v306 [label=< Raymond Maarloeve<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v306 -> v305
+	v307 [label=< Keth’aar<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v307 -> v306
+	v308 [label=< List of suspets<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v308 -> v306
+	v309 [label=< Vivaldi and Sons bank > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v310 [label=< Swamp cave > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v311 [label=< Sewants<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v311 -> v310
+	v312 [label=< Psilocybe mushroom<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v312 -> v310
+	v313 [label=< Cockatrices<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v313 -> v310
+	v314 [label=< Cockatrice Feathers<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v314 -> v313
+	v315 [label=< Drowner<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v315 -> v310
+	v316 [label=< Drowned dead<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v316 -> v310
+	v317 [label=< Tongues<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v317 -> v316
+	v318 [label=< Missing boy<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v318 -> v310
+	v319 [label=< Villagers<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v319 -> v310
+	v320 [label=< Salamandra guards<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v320 -> v310
+	v321 [label=< Town hall > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v322 [label=< Scribe<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v322 -> v321
+	v323 [label=< Kaer Morhen laboratory > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v324 [label=< Crypt > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v325 [label=< Ghoul<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v325 -> v324
+	v326 [label=< Graveir<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v326 -> v324
+	v327 [label=< Alghoul<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v327 -> v324
+	v328 [label=< Alghoul marrow<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v328 -> v327
+	v329 [label=< Gellert Bleinheim<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v329 -> v324
+	v330 [label=< Mage’s tower teleporter > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v331 [label=< Ruined elven temple > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v332 [label=< Bruxa<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v332 -> v331
+	v333 [label=< Sewers tunnel > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v334 [label=< Cockatrice<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v334 -> v333
+	v335 [label=< Maal’kad<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v335 -> v334
+	v336 [label=< Non human camp > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v337 [label=< Fool’s parsley<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v337 -> v336
+	v338 [label=< Feainnewedd<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v338 -> v336
+	v339 [label=< Beggartick<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v339 -> v336
+	v340 [label=< Archospores<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v340 -> v336
+	v341 [label=< Band of Salamandra<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v341 -> v336
+	v342 [label=< Outskirts Inn > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v343 [label=< Alvin<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v343 -> v342
+	v344 [label=< Shani<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v344 -> v342
+	v345 [label=< Declan Leuvaarden<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v345 -> v342
+	v346 [label=< Fat Fred<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v346 -> v342
+	v347 [label=< Vesna<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v347 -> v342
+	v348 [label=< Olaf’s corpse<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v348 -> v342
+	v349 [label=< Notice board<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v349 -> v342
+	v350 [label=< Arrest warrant<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v350 -> v349
+	v351 [label=< Barghest Contract<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v351 -> v349
+	v352 [label=< Ghoul Contract<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v352 -> v349
+	v353 [label=< Drowner Contract<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v353 -> v349
+	v354 [label=< Outskirts > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v355 [label=< Royal huntsman<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v355 -> v354
+	v356 [label=< Barghest<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v356 -> v354
+	v357 [label=< Beast<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v357 -> v354
+	v358 [label=< Thug<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v358 -> v354
+	v359 [label=< Echinopsae<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v359 -> v354
+	v360 [label=< Outskirts Salamander hideout > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v361 [label=< Haren’s goods<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v361 -> v360
+	v362 [label=< Outskirts cave > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v363 [label=< Salamanders<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v363 -> v362
+	v364 [label=< Book of the Tawny Owl<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v364 -> v363
+	v365 [label=< Reverend’s house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v366 [label=< Reverend<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v366 -> v365
+	v367 [label=< Eternal Fire signet ring<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v367 -> v366
+	v368 [label=< Abigail’s house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v369 [label=< Abigail<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v369 -> v368
+	v370 [label=< Miller’s Gate > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v371 [label=< Haren Brogg’s house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v372 [label=< Haren Brogg<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v372 -> v371
+	v373 [label=< Fishing village > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v374 [label=< Dice box<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v374 -> v373
+	v375 [label=< Zoltan<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v375 -> v373
+	v376 [label=< Scoia_tael<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v376 -> v373
+	v377 [label=< Barghest<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v377 -> v373
+	v378 [label=< Merchants’ Gate > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v379 [label=< Mikul<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v379 -> v378
+	v380 [label=< Key to the crypt<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v380 -> v379
+	v381 [label=< Kalkstein<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v381 -> v378
+	v382 [label=< Key to the crypt<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v382 -> v381
+	v383 [label=< Outskirts crypt > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v384 [label=< Ozzrel<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v384 -> v383
+	v385 [label=< Alghul’s head<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v385 -> v384
+	v386 [label=< Odo’s house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v387 [label=< Odo<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v387 -> v386
+	v388 [label=< Old mill > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v389 [label=< Nadir<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v389 -> v388
+	v390 [label=< Nadir’s head<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v390 -> v389
+	v391 [label=< Barghest<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v391 -> v388
+	v392 [label=< Cave under city walls > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v393 [label=< Human remains<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v393 -> v392
+	v394 [label=< Reverend’s church > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v395 [label=< Outskirts church crypt > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v396 [label=< Jail > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v397 [label=< Jethro<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v397 -> v396
+	v398 [label=< Cemetery crypt > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v399 [label=< Ghoul<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v399 -> v398
+	v400 [label=< Ghoul blood<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v400 -> v399
+	v401 [label=< Innocents<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v401 -> v398
+	v402 [label=< Scoia_tael<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v402 -> v398
+	v403 [label=< No_time_for_both<BR/><FONT POINT-SIZE="10">Knowledge: 'The innocents are at here with…'</FONT> > bgcolor="#E1D5E7" color="#E1D5E7" shape=box style="filled,rounded"]
+	v403 -> v402
+	v404 [label=< Necrophage<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v404 -> v398
+	v405 [label=< Raymond’s corpse<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v405 -> v398
+	v406 [label=< Angus house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v407 [label=< Salamandra hideout iron gate > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v408 [label=< Oafish guards<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v408 -> v407
+	v409 [label=< City guards<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v409 -> v407
+	v410 [label=< Deepest crypt > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v411 [label=< Crate<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v411 -> v410
+	v412 [label=< Gellert’s letter<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v412 -> v411
+	v413 [label=< Formula for the Petri’s Philter potion<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v413 -> v411
+	v414 [label=< Sewers key<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v414 -> v411
+	v415 [label=< Assasins<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v415 -> v410
+	v416 [label=< Shani’s house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v417 [label=< Vine<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v417 -> v416
+	v418 [label=< Dog tallow<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v418 -> v416
+	v419 [label=< Grandma<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v419 -> v416
+	v420 [label=< Gate to Old Vizima > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v421 [label=< Field Hospital > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v422 [label=< Fleder<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v422 -> v421
+	v423 [label=< Fleder Fang<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v423 -> v422
+	v424 [label=< Soldier<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v424 -> v421
+	v425 [label=< Soldiers of the Order<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v425 -> v421
+	v426 [label=< Scoia_tael<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v426 -> v421
+	v427 [label=< Barricade > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v428 [label=< Somwhere on the road to Kaer Morhen > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v429 [label=< Savolla<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v429 -> v428
+	v430 [label=< Professor<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v430 -> v428
+	v431 [label=< Frightener<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v431 -> v428
+	v432 [label=< Beast claw<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v432 -> v431
+	v433 [label=< Azar Javed<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v433 -> v428
+	v434 [label=< Kaer Morhen Triss’es room > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v435 [label=< Kaer Morhen library > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v436 [label=< St. Lebioda’s Hospital garden > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v437 [label=< Gardener<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v437 -> v436
+	v438 [label=< Clay pits > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v439 [label=< Drowner<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v439 -> v438
+	v440 [label=< Hermits hut > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v441 [label=< Hermit<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v441 -> v440
+	v442 [label=< Wreath of Immortelles<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v442 -> v441
+	v443 [label=< Book on vampires<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v443 -> v441
+	v444 [label=< Ownership of the witcher’s hut<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v444 -> v441
+	v445 [label=< Swamp forest > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v446 [label=< Beggartick blossoms<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v446 -> v445
+	v447 [label=< Old mine in the swamp cemetery > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v448 [label=< Vivaldi and Sons bank > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v449 [label=< Ren Grouver<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v449 -> v448
+	v450 [label=< Saint Gregorys tomb > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v451 [label=< Warehouse > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v452 [label=< Fleder<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v452 -> v451
+	v453 [label=< Group of Salamanders<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v453 -> v451
+	v454 [label=< Maribor gate > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v455 [label=< Old forge > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v456 [label=< Temple quarter slums > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v457 [label=< Thug<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v457 -> v456
+	v458 [label=< Key to haunted house<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v458 -> v457
+	v459 [label=< Haunted house > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v460 [label=< Half-elf woman<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v460 -> v459
+	v461 [label=< Rode to Lumberjacks’ glade > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v462 [label=< Echinopsae<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v462 -> v461
+	v463 [label=< Echinops rootstock<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v463 -> v462
+	v464 [label=< Drowner<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v464 -> v461
+	v465 [label=< Nonhuman district > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v466 [label=< Dwarven blacksmith shop > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v467 [label=< Alvin<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v467 -> v466
+	v468 [label=< Salamanders<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v468 -> v466
+	v469 [label=< House with the wine cellar > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v470 [label=< Graviers<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v470 -> v469
+	v471 [label=< Three bottles of very old wine<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v471 -> v469
+	v472 [label=< Altar of Melitele > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v473 [label=< Ghe’vrath<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v473 -> v472
+	v474 [label=< Oth<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v474 -> v472
+	v475 [label=< Veen’ah<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v475 -> v472
+	v476 [label=< Outside of Thaler’s place > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v477 [label=< Mysterious man<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v477 -> v476
+	v478 [label=< Ramsmeat’s place > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v479 [label=< Dog tallow<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v479 -> v478
+	v480 [label=< Gate to Royal Castle > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v481 [label=< Guards of Royal Castle Gate<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v481 -> v480
+	v482 [label=< Cockatrice lair > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v483 [label=< Greater cockatrice<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v483 -> v482
+	v484 [label=< Trophy head<BR/><FONT POINT-SIZE="10">Value: 10</FONT> > bgcolor="#FFF2CC" color="#FFF2CC" shape=box style="filled,rounded"]
+	v484 -> v483
+	v485 [label=< Vizima walls > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v486 [label=< Southernmost refugee cave > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v487 [label=< Ancient crypt > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v488 [label=< Cementaur<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v488 -> v487
+	v489 [label=< Agnes of Glanville’s lair > bgcolor="#D5E8D4" color="#D5E8D4" shape=box style="filled,rounded"]
+	v490 [label=< Zdenek<BR/><FONT POINT-SIZE="10">HP: 100, Money: 10</FONT> > bgcolor="#DAE8FC" color="#DAE8FC" shape=box style="filled,rounded"]
+	v490 -> v489
+	v1 -> v174 [constraint=false]
+	v12 -> v62 [constraint=false]
+	v17 -> v100 [constraint=false]
+	v17 -> v138 [constraint=false]
+	v17 -> v71 [constraint=false]
+	v17 -> v291 [constraint=false]
+	v17 -> v63 [constraint=false]
+	v17 -> v141 [constraint=false]
+	v17 -> v62 [constraint=false]
+	v17 -> v115 [constraint=false]
+	v17 -> v310 [constraint=false]
+	v17 -> v336 [constraint=false]
+	v17 -> v445 [constraint=false]
+	v17 -> v461 [constraint=false]
+	v20 -> v39 [constraint=false]
+	v24 -> v25 [constraint=false]
+	v24 -> v266 [constraint=false]
+	v25 -> v75 [constraint=false]
+	v25 -> v398 [constraint=false]
+	v25 -> v24 [constraint=false]
+	v39 -> v20 [constraint=false]
+	v39 -> v324 [constraint=false]
+	v39 -> v407 [constraint=false]
+	v39 -> v266 [constraint=false]
+	v39 -> v333 [constraint=false]
+	v39 -> v454 [constraint=false]
+	v39 -> v482 [constraint=false]
+	v46 -> v50 [constraint=false]
+	v46 -> v153 [constraint=false]
+	v46 -> v271 [constraint=false]
+	v53 -> v407 [constraint=false]
+	v53 -> v410 [constraint=false]
+	v62 -> v12 [constraint=false]
+	v62 -> v71 [constraint=false]
+	v62 -> v17 [constraint=false]
+	v62 -> v438 [constraint=false]
+	v63 -> v17 [constraint=false]
+	v66 -> v291 [constraint=false]
+	v66 -> v461 [constraint=false]
+	v71 -> v100 [constraint=false]
+	v71 -> v46 [constraint=false]
+	v71 -> v62 [constraint=false]
+	v71 -> v17 [constraint=false]
+	v77 -> v271 [constraint=false]
+	v78 -> v17 [constraint=false]
+	v78 -> v291 [constraint=false]
+	v78 -> v330 [constraint=false]
+	v81 -> v266 [constraint=false]
+	v81 -> v126 [constraint=false]
+	v81 -> v421 [constraint=false]
+	v81 -> v480 [constraint=false]
+	v100 -> v71 [constraint=false]
+	v103 -> v255 [constraint=false]
+	v103 -> v157 [constraint=false]
+	v113 -> v266 [constraint=false]
+	v115 -> v17 [constraint=false]
+	v126 -> v81 [constraint=false]
+	v129 -> v436 [constraint=false]
+	v135 -> v476 [constraint=false]
+	v138 -> v17 [constraint=false]
+	v147 -> v266 [constraint=false]
+	v147 -> v272 [constraint=false]
+	v147 -> v279 [constraint=false]
+	v148 -> v266 [constraint=false]
+	v155 -> v157 [constraint=false]
+	v155 -> v156 [constraint=false]
+	v156 -> v256 [constraint=false]
+	v156 -> v155 [constraint=false]
+	v156 -> v434 [constraint=false]
+	v156 -> v435 [constraint=false]
+	v157 -> v155 [constraint=false]
+	v157 -> v323 [constraint=false]
+	v157 -> v103 [constraint=false]
+	v158 -> v163 [constraint=false]
+	v158 -> v174 [constraint=false]
+	v158 -> v184 [constraint=false]
+	v158 -> v199 [constraint=false]
+	v158 -> v230 [constraint=false]
+	v158 -> v226 [constraint=false]
+	v158 -> v204 [constraint=false]
+	v158 -> v216 [constraint=false]
+	v163 -> v158 [constraint=false]
+	v163 -> v174 [constraint=false]
+	v163 -> v182 [constraint=false]
+	v163 -> v223 [constraint=false]
+	v163 -> v440 [constraint=false]
+	v174 -> v158 [constraint=false]
+	v174 -> v163 [constraint=false]
+	v174 -> v192 [constraint=false]
+	v174 -> v187 [constraint=false]
+	v174 -> v215 [constraint=false]
+	v174 -> v210 [constraint=false]
+	v174 -> v208 [constraint=false]
+	v174 -> v1 [constraint=false]
+	v182 -> v163 [constraint=false]
+	v184 -> v195 [constraint=false]
+	v184 -> v231 [constraint=false]
+	v184 -> v233 [constraint=false]
+	v184 -> v236 [constraint=false]
+	v184 -> v158 [constraint=false]
+	v187 -> v174 [constraint=false]
+	v187 -> v215 [constraint=false]
+	v192 -> v174 [constraint=false]
+	v195 -> v184 [constraint=false]
+	v199 -> v158 [constraint=false]
+	v204 -> v158 [constraint=false]
+	v208 -> v174 [constraint=false]
+	v210 -> v174 [constraint=false]
+	v215 -> v174 [constraint=false]
+	v215 -> v187 [constraint=false]
+	v216 -> v158 [constraint=false]
+	v223 -> v163 [constraint=false]
+	v226 -> v158 [constraint=false]
+	v230 -> v158 [constraint=false]
+	v231 -> v184 [constraint=false]
+	v233 -> v184 [constraint=false]
+	v236 -> v184 [constraint=false]
+	v238 -> v447 [constraint=false]
+	v238 -> v245 [constraint=false]
+	v238 -> v243 [constraint=false]
+	v238 -> v251 [constraint=false]
+	v238 -> v427 [constraint=false]
+	v238 -> v486 [constraint=false]
+	v243 -> v238 [constraint=false]
+	v245 -> v238 [constraint=false]
+	v245 -> v450 [constraint=false]
+	v251 -> v238 [constraint=false]
+	v255 -> v103 [constraint=false]
+	v255 -> v354 [constraint=false]
+	v255 -> v428 [constraint=false]
+	v256 -> v156 [constraint=false]
+	v259 -> v264 [constraint=false]
+	v262 -> v264 [constraint=false]
+	v264 -> v259 [constraint=false]
+	v264 -> v262 [constraint=false]
+	v264 -> v480 [constraint=false]
+	v266 -> v299 [constraint=false]
+	v266 -> v321 [constraint=false]
+	v266 -> v274 [constraint=false]
+	v266 -> v81 [constraint=false]
+	v266 -> v24 [constraint=false]
+	v266 -> v279 [constraint=false]
+	v266 -> v148 [constraint=false]
+	v266 -> v147 [constraint=false]
+	v266 -> v309 [constraint=false]
+	v266 -> v39 [constraint=false]
+	v266 -> v396 [constraint=false]
+	v266 -> v454 [constraint=false]
+	v266 -> v455 [constraint=false]
+	v272 -> v147 [constraint=false]
+	v274 -> v266 [constraint=false]
+	v279 -> v266 [constraint=false]
+	v279 -> v147 [constraint=false]
+	v291 -> v17 [constraint=false]
+	v291 -> v66 [constraint=false]
+	v295 -> v416 [constraint=false]
+	v299 -> v266 [constraint=false]
+	v303 -> v451 [constraint=false]
+	v309 -> v266 [constraint=false]
+	v310 -> v17 [constraint=false]
+	v321 -> v266 [constraint=false]
+	v323 -> v157 [constraint=false]
+	v324 -> v39 [constraint=false]
+	v330 -> v78 [constraint=false]
+	v331 -> v333 [constraint=false]
+	v333 -> v331 [constraint=false]
+	v333 -> v39 [constraint=false]
+	v336 -> v17 [constraint=false]
+	v342 -> v354 [constraint=false]
+	v354 -> v342 [constraint=false]
+	v354 -> v360 [constraint=false]
+	v354 -> v368 [constraint=false]
+	v354 -> v365 [constraint=false]
+	v354 -> v373 [constraint=false]
+	v354 -> v378 [constraint=false]
+	v354 -> v370 [constraint=false]
+	v354 -> v383 [constraint=false]
+	v354 -> v386 [constraint=false]
+	v354 -> v388 [constraint=false]
+	v354 -> v392 [constraint=false]
+	v354 -> v394 [constraint=false]
+	v354 -> v362 [constraint=false]
+	v360 -> v354 [constraint=false]
+	v360 -> v362 [constraint=false]
+	v362 -> v360 [constraint=false]
+	v365 -> v354 [constraint=false]
+	v368 -> v354 [constraint=false]
+	v370 -> v354 [constraint=false]
+	v371 -> v373 [constraint=false]
+	v373 -> v388 [constraint=false]
+	v373 -> v354 [constraint=false]
+	v373 -> v371 [constraint=false]
+	v378 -> v354 [constraint=false]
+	v383 -> v354 [constraint=false]
+	v386 -> v354 [constraint=false]
+	v388 -> v354 [constraint=false]
+	v392 -> v354 [constraint=false]
+	v394 -> v354 [constraint=false]
+	v394 -> v395 [constraint=false]
+	v395 -> v394 [constraint=false]
+	v398 -> v25 [constraint=false]
+	v407 -> v39 [constraint=false]
+	v407 -> v53 [constraint=false]
+	v410 -> v53 [constraint=false]
+	v416 -> v295 [constraint=false]
+	v420 -> v23 [constraint=false]
+	v421 -> v81 [constraint=false]
+	v434 -> v156 [constraint=false]
+	v435 -> v156 [constraint=false]
+	v436 -> v129 [constraint=false]
+	v438 -> v62 [constraint=false]
+	v440 -> v163 [constraint=false]
+	v445 -> v17 [constraint=false]
+	v445 -> v472 [constraint=false]
+	v447 -> v238 [constraint=false]
+	v447 -> v487 [constraint=false]
+	v448 -> v451 [constraint=false]
+	v450 -> v245 [constraint=false]
+	v451 -> v303 [constraint=false]
+	v451 -> v448 [constraint=false]
+	v454 -> v39 [constraint=false]
+	v461 -> v66 [constraint=false]
+	v461 -> v17 [constraint=false]
+	v465 -> v466 [constraint=false]
+	v476 -> v135 [constraint=false]
+	v480 -> v264 [constraint=false]
+	v480 -> v81 [constraint=false]
+	v482 -> v39 [constraint=false]
+	v487 -> v447 [constraint=false]
+}
