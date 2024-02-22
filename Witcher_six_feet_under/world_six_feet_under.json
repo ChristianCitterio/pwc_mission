@@ -1,0 +1,4180 @@
+[
+  {
+    "Title": "World_q0 / \u015awiat_q0",
+    "Description": "Testing",
+    "TitleGeneric": "",
+    "Override": 0,
+    "LSide": {
+      "Locations": [
+        {
+          "Id": "0",
+          "Name": "Black Tern Island",
+          "Characters": [
+            {
+              "Name": "Royal wyvern",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Wyvern eggs",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Lady of the Lake",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Aerondight",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Ruby",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Dagon\u2019s follower",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Dagon",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Drowner",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Basilisk",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Basilisk hide",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "101"
+            }
+          ]
+        },
+        {
+          "Id": "16",
+          "Name": "Vaska\u2019s hut",
+          "Connections": [
+            {
+              "Destination": "43"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Vaska",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Hymns of Madness and Despair",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Kezath",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Tower tarot card",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "17",
+          "Name": "Swamp",
+          "Connections": [
+            {
+              "Destination": "61"
+            },
+            {
+              "Destination": "86"
+            },
+            {
+              "Destination": "47"
+            },
+            {
+              "Destination": "179"
+            },
+            {
+              "Destination": "45"
+            },
+            {
+              "Destination": "89"
+            },
+            {
+              "Destination": "43"
+            },
+            {
+              "Destination": "72"
+            },
+            {
+              "Destination": "191"
+            },
+            {
+              "Destination": "228"
+            },
+            {
+              "Destination": "410"
+            },
+            {
+              "Destination": "448"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Kikimore",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Kikimore claw",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "18",
+          "Name": "Lionhead Spider Cultists\u2019 lair",
+          "Characters": [
+            {
+              "Name": "Salamanders",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "29"
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Dog tallow",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "22",
+          "Name": "Gate to the dike"
+        },
+        {
+          "Id": "27",
+          "Name": "Gate to the Cemetery",
+          "Connections": [
+            {
+              "Destination": "28"
+            },
+            {
+              "Destination": "170"
+            }
+          ]
+        },
+        {
+          "Id": "28",
+          "Name": "Vizima cemetery",
+          "Items": [
+            {
+              "Name": "Honeysuckle",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Celandine",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Crow\u2019s eye",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Corpse of a woman",
+              "Attributes": {
+                "Value": 10
+              },
+              "Narration": [
+                {
+                  "Name": "Not_eaten",
+                  "Attributes": {
+                    "Knowledge": "It seems to be stabbed and not eaten by ghouls."
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "49"
+            },
+            {
+              "Destination": "326"
+            },
+            {
+              "Destination": "27"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Vetala",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Narration": [
+                {
+                  "Name": "True_Kidnappers",
+                  "Attributes": {
+                    "Knowledge": "The true kidnappers are the Scoia_tael."
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Ghoul",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Ghoul blood",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Necrophage",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "29",
+          "Name": "Vizima sewers",
+          "Connections": [
+            {
+              "Destination": "18"
+            },
+            {
+              "Destination": "214"
+            },
+            {
+              "Destination": "331"
+            },
+            {
+              "Destination": "170"
+            },
+            {
+              "Destination": "226"
+            },
+            {
+              "Destination": "424"
+            },
+            {
+              "Destination": "514"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Drowner",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Ren Grouver",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Fleder",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Fleder Fang",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Con artist",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Muscleman",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "33",
+          "Name": "Vizima dike",
+          "Characters": [
+            {
+              "Name": "Carmen",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Ferryman",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Mecenary guard",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "35"
+            },
+            {
+              "Destination": "93"
+            },
+            {
+              "Destination": "171"
+            }
+          ]
+        },
+        {
+          "Id": "35",
+          "Name": "Shrine of Melitele",
+          "Characters": [
+            {
+              "Name": "Desperate merchant",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Coccacidium",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "40",
+          "Name": "Salamandra hideout",
+          "Connections": [
+            {
+              "Destination": "331"
+            },
+            {
+              "Destination": "337"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Assasins",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Chemists",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Chemist chef",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Formula for the Petri\u2019s Philter potion",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Radovid",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Hartmann\u2019s mirror",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Power stone",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Seeing stone",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "43",
+          "Name": "Brickmakers village",
+          "Connections": [
+            {
+              "Destination": "16"
+            },
+            {
+              "Destination": "47"
+            },
+            {
+              "Destination": "17"
+            },
+            {
+              "Destination": "400"
+            }
+          ]
+        },
+        {
+          "Id": "45",
+          "Name": "Shrine of Melitele",
+          "Items": [
+            {
+              "Name": "Ring",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "17"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Coccacidium",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "46",
+          "Name": "Lumberjacks glade",
+          "Characters": [
+            {
+              "Name": "Yaren Bolt",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Yaren\u2019s axe",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Villagers",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Salamandra guards",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "179"
+            },
+            {
+              "Destination": "448"
+            }
+          ]
+        },
+        {
+          "Id": "47",
+          "Name": "Ferry landing",
+          "Connections": [
+            {
+              "Destination": "61"
+            },
+            {
+              "Destination": "33"
+            },
+            {
+              "Destination": "43"
+            },
+            {
+              "Destination": "17"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Jean-Pierre",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Carmen",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Ferryman",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "49",
+          "Name": "Vizima cemetery gates",
+          "Characters": [
+            {
+              "Name": "Hildegard Zollstock",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "52",
+          "Name": "Gate to the dike",
+          "Connections": [
+            {
+              "Destination": "171"
+            }
+          ]
+        },
+        {
+          "Id": "53",
+          "Name": "Mage\u2019s tower",
+          "Connections": [
+            {
+              "Destination": "17"
+            },
+            {
+              "Destination": "179"
+            },
+            {
+              "Destination": "216"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Alghoul",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Alghoul marrow",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "57",
+          "Name": "Old Vizima",
+          "Connections": [
+            {
+              "Destination": "170"
+            },
+            {
+              "Destination": "74"
+            },
+            {
+              "Destination": "360"
+            },
+            {
+              "Destination": "504"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Jean-Pierre",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Nurses",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "White Rayla",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Squirrel Puffs from Scoia_tael bodies",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Jacques de Aldersberg",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Madman",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "58",
+          "Name": "Shaggy Bear Tavern",
+          "Characters": [
+            {
+              "Name": "Fleder",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Fleder Fang",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Angus",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Golden signet ring",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Letter Of Recommendation",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Butter Bean",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Munro Bruys",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Conrad",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Ramsmeat",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Coleman",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Fisstech",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "61",
+          "Name": "Brickmakers quarry",
+          "Connections": [
+            {
+              "Destination": "47"
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Berengar\u2019s bloody belongings",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Coccacidium",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "62",
+          "Name": "Kaer Morhen courtyard",
+          "Connections": [
+            {
+              "Destination": "156"
+            },
+            {
+              "Destination": "96"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Lambert",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Vesemir",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Celandine",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Sword",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Armor",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Triss Merigold",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Leo",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Eskel",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Seagull",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "70",
+          "Name": "Gate to the Trade Quarter",
+          "Connections": [
+            {
+              "Destination": "170"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Guards of Trade Quarter Gate",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "72",
+          "Name": "Gramps hut",
+          "Connections": [
+            {
+              "Destination": "17"
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Feainnewedd",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "White myrtle",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Beggartick",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Archospores",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Human remains",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Hanged Man\u2019s Venom",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Azoth",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "73",
+          "Name": "Vizima dungeon",
+          "Characters": [
+            {
+              "Name": "Jethro",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Silver Sword",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "74",
+          "Name": "Cloister",
+          "Characters":[
+            {
+              "Name": "Siegfried",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Narration": [
+                {
+                  "Name": "Mission",
+                  "Attributes": {
+                    "Knowledge": "Townfolks are disappearing in the cemetery."
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Geralt",
+              "Attributes": {
+                "HP": 1000,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "57"
+            }
+          ]
+        },
+        {
+          "Id": "76",
+          "Name": "St. Lebioda\u2019s Hospital",
+          "Items": [
+            {
+              "Name": "Verbena",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Dog tallow",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Distressed nurse",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Prisoner",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Nurse",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "393"
+            }
+          ]
+        },
+        {
+          "Id": "80",
+          "Name": "Thaler\u2019s place",
+          "Characters": [
+            {
+              "Name": "Thaler",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Book Forensic Medicine",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "494"
+            }
+          ]
+        },
+        {
+          "Id": "86",
+          "Name": "Collapsed tower",
+          "Connections": [
+            {
+              "Destination": "17"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Villagers",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Salamandra guards",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "89",
+          "Name": "Golem burial ground",
+          "Items": [
+            {
+              "Name": "Frozen golem",
+              "Attributes": {
+                "Value": 10
+              },
+              "Items": [
+                {
+                  "Name": "Neh\u2019tza",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Fool\u2019s Parsley",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Golem",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "90",
+          "Name": "Triss house"
+        },
+        {
+          "Id": "91",
+          "Name": "New Narakot square",
+          "Connections": [
+            {
+              "Destination": "170"
+            },
+            {
+              "Destination": "172"
+            },
+            {
+              "Destination": "177"
+            }
+          ]
+        },
+        {
+          "Id": "92",
+          "Name": "House of the queen of the night",
+          "Characters": [
+            {
+              "Name": "Bodyguard",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Blue eyes",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Queen of the night",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Vampiresses",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "170"
+            }
+          ]
+        },
+        {
+          "Id": "93",
+          "Name": "Docks",
+          "Characters": [
+            {
+              "Name": "Gramps",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "94",
+          "Name": "Kaer Morhen upstairs",
+          "Connections": [
+            {
+              "Destination": "96"
+            },
+            {
+              "Destination": "95"
+            }
+          ]
+        },
+        {
+          "Id": "95",
+          "Name": "Kaer Morhen hallway",
+          "Connections": [
+            {
+              "Destination": "157"
+            },
+            {
+              "Destination": "94"
+            },
+            {
+              "Destination": "382"
+            },
+            {
+              "Destination": "387"
+            }
+          ]
+        },
+        {
+          "Id": "96",
+          "Name": "Kaer Morhen main hall",
+          "Connections": [
+            {
+              "Destination": "94"
+            },
+            {
+              "Destination": "207"
+            },
+            {
+              "Destination": "62"
+            }
+          ],
+          "Characters": [
+          ]
+        },
+        {
+          "Id": "99",
+          "Name": "Murky Waters",
+          "Connections": [
+            {
+              "Destination": "100"
+            },
+            {
+              "Destination": "101"
+            },
+            {
+              "Destination": "103"
+            },
+            {
+              "Destination": "107"
+            },
+            {
+              "Destination": "115"
+            },
+            {
+              "Destination": "114"
+            },
+            {
+              "Destination": "108"
+            },
+            {
+              "Destination": "112"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Devourer",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Shadow dust",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Devourer teeth",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Celina",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "100",
+          "Name": "Fields",
+          "Connections": [
+            {
+              "Destination": "99"
+            },
+            {
+              "Destination": "101"
+            },
+            {
+              "Destination": "102"
+            },
+            {
+              "Destination": "113"
+            },
+            {
+              "Destination": "404"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Royal wyvern",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Wyvern eggs",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Noonwraith",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Shimmering dust",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Shadow dust",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Midday bride",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Piece of Nehalenia\u2019s Mirror",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Devourer",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Shadow dust",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Nightwraith",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "101",
+          "Name": "Lakeside",
+          "Connections": [
+            {
+              "Destination": "99"
+            },
+            {
+              "Destination": "100"
+            },
+            {
+              "Destination": "105"
+            },
+            {
+              "Destination": "104"
+            },
+            {
+              "Destination": "111"
+            },
+            {
+              "Destination": "110"
+            },
+            {
+              "Destination": "109"
+            },
+            {
+              "Destination": "0"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Zephyr",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Turquoise necklace",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Drowner",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Naiad",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Book on the vodyanoi",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Earth rune",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Toruviel",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "102",
+          "Name": "Crypt in the Fields",
+          "Characters": [
+            {
+              "Name": "Ureus",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "100"
+            }
+          ]
+        },
+        {
+          "Id": "103",
+          "Name": "Murky Waters Village",
+          "Connections": [
+            {
+              "Destination": "106"
+            },
+            {
+              "Destination": "127"
+            },
+            {
+              "Destination": "141"
+            },
+            {
+              "Destination": "150"
+            },
+            {
+              "Destination": "99"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "White Rayla",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Adam",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "104",
+          "Name": "Crypt in the Lakeside",
+          "Characters": [
+            {
+              "Name": "Berengar",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Berengar\u2019s medallion",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Alps",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Bruxa",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "101"
+            },
+            {
+              "Destination": "111"
+            }
+          ]
+        },
+        {
+          "Id": "105",
+          "Name": "Elven cave",
+          "Characters": [
+            {
+              "Name": "Elven craftsman",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Chireadan",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "101"
+            }
+          ]
+        },
+        {
+          "Id": "106",
+          "Name": "Blacksmith\u2019s house",
+          "Connections": [
+            {
+              "Destination": "103"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Blacksmith",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Blacksmith\u2019s wife",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Herbarium (Plants of Barren Lands)",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "107",
+          "Name": "Impassible bridge",
+          "Characters": [
+            {
+              "Name": "Mason Harn",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Pat",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Giant centipede",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Chitinous carapace",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "99"
+            }
+          ]
+        },
+        {
+          "Id": "108",
+          "Name": "Riverbank",
+          "Characters": [
+            {
+              "Name": "Giant centipede",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Chitinous carapace",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Drowner",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "99"
+            }
+          ]
+        },
+        {
+          "Id": "109",
+          "Name": "Fisher King\u2019s hut",
+          "Characters": [
+            {
+              "Name": "Fisher king",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "101"
+            }
+          ]
+        },
+        {
+          "Id": "110",
+          "Name": "Lady of the Lake\u2019s altar",
+          "Characters": [
+            {
+              "Name": "Friendly vodyan priest",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Priest\u2019s staff",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Golden bracelet",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Golden calf",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "101"
+            }
+          ]
+        },
+        {
+          "Id": "111",
+          "Name": "Campfire",
+          "Connections": [
+            {
+              "Destination": "101"
+            },
+            {
+              "Destination": "104"
+            }
+          ]
+        },
+        {
+          "Id": "112",
+          "Name": "Country inn",
+          "Characters": [
+            {
+              "Name": "Country inn innkeeper",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Julian",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Alabaster figurine",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Gramp\u2019s diamond",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Alina\u2019s garland",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Rock",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "99"
+            }
+          ]
+        },
+        {
+          "Id": "113",
+          "Name": "Druid\u2019s lantern",
+          "Characters": [
+            {
+              "Name": "Wraith",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "King of the Wild Hunt",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "100"
+            }
+          ]
+        },
+        {
+          "Id": "114",
+          "Name": "Ruins",
+          "Characters": [
+            {
+              "Name": "Gambling ghost",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Giant centipede",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Chitinous carapace",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "99"
+            }
+          ]
+        },
+        {
+          "Id": "115",
+          "Name": "Witch\u2019s hut",
+          "Connections": [
+            {
+              "Destination": "99"
+            }
+          ]
+        },
+        {
+          "Id": "127",
+          "Name": "Mayor\u2019s house",
+          "Connections": [
+            {
+              "Destination": "103"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Tobias Hoffman",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "141",
+          "Name": "Baker\u2019s house",
+          "Connections": [
+            {
+              "Destination": "103"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Baker",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Loaf of bread",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "150",
+          "Name": "Alina\u2019s hut",
+          "Characters": [
+            {
+              "Name": "Alina",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "103"
+            }
+          ]
+        },
+        {
+          "Id": "151",
+          "Name": "Swamp cemetery",
+          "Characters": [
+            {
+              "Name": "Garkain",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Trofy",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Garkain",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Saliva",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "415"
+            },
+            {
+              "Destination": "153"
+            },
+            {
+              "Destination": "152"
+            },
+            {
+              "Destination": "155"
+            },
+            {
+              "Destination": "362"
+            },
+            {
+              "Destination": "525"
+            }
+          ]
+        },
+        {
+          "Id": "152",
+          "Name": "Raven\u2019s crypt",
+          "Characters": [
+            {
+              "Name": "Wraith",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "151"
+            }
+          ]
+        },
+        {
+          "Id": "153",
+          "Name": "Striga crypt",
+          "Characters": [
+            {
+              "Name": "Bruxa",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Trofy",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Striga",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Striga heart",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "151"
+            },
+            {
+              "Destination": "419"
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Ostrit\u2019s diary",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "155",
+          "Name": "Druids\u2019 cave",
+          "Connections": [
+            {
+              "Destination": "151"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Corbin",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Receipt",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Royal huntsman",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "156",
+          "Name": "Kaer Morhen",
+          "Connections": [
+            {
+              "Destination": "62"
+            },
+            {
+              "Destination": "262"
+            },
+            {
+              "Destination": "367"
+            }
+          ]
+        },
+        {
+          "Id": "157",
+          "Name": "Kaer Morhen room first from hallway",
+          "Connections": [
+            {
+              "Destination": "95"
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Chest",
+              "Attributes": {
+                "Value": 10
+              },
+              "Items": [
+                {
+                  "Name": "Calcium equum",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "161",
+          "Name": "Throne hall",
+          "Connections": [
+            {
+              "Destination": "163"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Antoinnette",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Money",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "162",
+          "Name": "King Foltest\u2019s chamber",
+          "Connections": [
+            {
+              "Destination": "163"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Foltest",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "163",
+          "Name": "Chamberlain\u2019s station",
+          "Connections": [
+            {
+              "Destination": "161"
+            },
+            {
+              "Destination": "162"
+            },
+            {
+              "Destination": "504"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Chamberlain",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "170",
+          "Name": "Trade quarter",
+          "Connections": [
+            {
+              "Destination": "185"
+            },
+            {
+              "Destination": "193"
+            },
+            {
+              "Destination": "173"
+            },
+            {
+              "Destination": "57"
+            },
+            {
+              "Destination": "27"
+            },
+            {
+              "Destination": "177"
+            },
+            {
+              "Destination": "92"
+            },
+            {
+              "Destination": "91"
+            },
+            {
+              "Destination": "190"
+            },
+            {
+              "Destination": "29"
+            },
+            {
+              "Destination": "318"
+            },
+            {
+              "Destination": "424"
+            },
+            {
+              "Destination": "430"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Kikimore",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Kikimore claw",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Royal huntsman",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Guard",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "171",
+          "Name": "Gate to New Vizima"
+        },
+        {
+          "Id": "172",
+          "Name": "Guardhouse",
+          "Connections": [
+            {
+              "Destination": "91"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Velerad",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "173",
+          "Name": "Vizima dungeon",
+          "Connections": [
+            {
+              "Destination": "170"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Vincent Meis",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "174",
+          "Name": "Gamblers\u2019 den",
+          "Characters": [
+            {
+              "Name": "Koster",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Gambling ghost",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "177",
+          "Name": "New Narakot",
+          "Connections": [
+            {
+              "Destination": "170"
+            },
+            {
+              "Destination": "91"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "New narakort innkeeper",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Ekryn von blunt",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "House of the night Signet",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Adda the White",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Patrick de weyze",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Dandelion",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Roderick de Wett",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Andrew Gablodda",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Mysterious note",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Encrypted document",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Key",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "179",
+          "Name": "Druids grove",
+          "Connections": [
+            {
+              "Destination": "17"
+            },
+            {
+              "Destination": "46"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Hierophant",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Wyvern",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Yaevinn",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "182",
+          "Name": "Merchant Street",
+          "Connections": [
+            {
+              "Destination": "344"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Antiquary",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Book Forensic Medicine",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Book Zerrikanian Insects and Other Vermin",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "185",
+          "Name": "Pankieras\u2019 house",
+          "Connections": [
+            {
+              "Destination": "170"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Rozalind pankiera",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Rozalind pankiera\u2019s father",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Dandelion\u2019s lute",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "187",
+          "Name": "Tanners square",
+          "Characters": [
+            {
+              "Name": "Blacksmith",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "420"
+            }
+          ]
+        },
+        {
+          "Id": "188",
+          "Name": "Detective\u2019s house",
+          "Characters": [
+            {
+              "Name": "Raymond Maarloeve",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Keth\u2019aar",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "List of suspets",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "190",
+          "Name": "Vivaldi and Sons bank",
+          "Connections": [
+            {
+              "Destination": "170"
+            }
+          ]
+        },
+        {
+          "Id": "191",
+          "Name": "Swamp cave",
+          "Items": [
+            {
+              "Name": "Sewants",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Psilocybe mushroom",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Cockatrices",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Cockatrice Feathers",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Drowner",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Drowned dead",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Tongues",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Missing boy",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Villagers",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Salamandra guards",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "17"
+            }
+          ]
+        },
+        {
+          "Id": "193",
+          "Name": "Town hall",
+          "Connections": [
+            {
+              "Destination": "170"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Scribe",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "207",
+          "Name": "Kaer Morhen laboratory",
+          "Connections": [
+            {
+              "Destination": "96"
+            }
+          ]
+        },
+        {
+          "Id": "214",
+          "Name": "Crypt",
+          "Connections": [
+            {
+              "Destination": "29"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Ghoul",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Graveir",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Alghoul",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Alghoul marrow",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Gellert Bleinheim",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "216",
+          "Name": "Mage\u2019s tower teleporter",
+          "Connections": [
+            {
+              "Destination": "53"
+            }
+          ]
+        },
+        {
+          "Id": "217",
+          "Name": "Ruined elven temple",
+          "Connections": [
+            {
+              "Destination": "226"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Bruxa",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "226",
+          "Name": "Sewers tunnel",
+          "Connections": [
+            {
+              "Destination": "217"
+            },
+            {
+              "Destination": "29"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Cockatrice",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Maal\u2019kad",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "228",
+          "Name": "Non human camp",
+          "Connections": [
+            {
+              "Destination": "17"
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Fool\u2019s parsley",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Feainnewedd",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Beggartick",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Archospores",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Band of Salamandra",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "256",
+          "Name": "Outskirts Inn",
+          "Characters": [
+            {
+              "Name": "Alvin",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Shani",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Declan Leuvaarden",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Fat Fred",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Vesna",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Olaf\u2019s corpse",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Notice board",
+              "Attributes": {
+                "Value": 10
+              },
+              "Items": [
+                {
+                  "Name": "Arrest warrant",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Barghest Contract",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Ghoul Contract",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Drowner Contract",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "262"
+            }
+          ]
+        },
+        {
+          "Id": "262",
+          "Name": "Outskirts",
+          "Characters": [
+            {
+              "Name": "Royal huntsman",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Barghest",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Beast",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Thug",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Echinopsae",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "256"
+            },
+            {
+              "Destination": "263"
+            },
+            {
+              "Destination": "271"
+            },
+            {
+              "Destination": "265"
+            },
+            {
+              "Destination": "284"
+            },
+            {
+              "Destination": "286"
+            },
+            {
+              "Destination": "280"
+            },
+            {
+              "Destination": "287"
+            },
+            {
+              "Destination": "290"
+            },
+            {
+              "Destination": "293"
+            },
+            {
+              "Destination": "295"
+            },
+            {
+              "Destination": "297"
+            },
+            {
+              "Destination": "264"
+            }
+          ]
+        },
+        {
+          "Id": "263",
+          "Name": "Outskirts Salamander hideout",
+          "Items": [
+            {
+              "Name": "Haren\u2019s goods",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "262"
+            },
+            {
+              "Destination": "264"
+            }
+          ]
+        },
+        {
+          "Id": "264",
+          "Name": "Outskirts cave",
+          "Characters": [
+            {
+              "Name": "Salamanders",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Book of the Tawny Owl",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "263"
+            }
+          ]
+        },
+        {
+          "Id": "265",
+          "Name": "Reverend\u2019s house",
+          "Characters": [
+            {
+              "Name": "Reverend",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Eternal Fire signet ring",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "262"
+            }
+          ]
+        },
+        {
+          "Id": "271",
+          "Name": "Abigail\u2019s house",
+          "Characters": [
+            {
+              "Name": "Abigail",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "262"
+            }
+          ]
+        },
+        {
+          "Id": "280",
+          "Name": "Miller\u2019s Gate",
+          "Connections": [
+            {
+              "Destination": "262"
+            }
+          ]
+        },
+        {
+          "Id": "281",
+          "Name": "Haren Brogg\u2019s house",
+          "Connections": [
+            {
+              "Destination": "284"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Haren Brogg",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "284",
+          "Name": "Fishing village",
+          "Items": [
+            {
+              "Name": "Dice box",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "293"
+            },
+            {
+              "Destination": "262"
+            },
+            {
+              "Destination": "281"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Zoltan",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Scoia_tael",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Barghest",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "286",
+          "Name": "Merchants\u2019 Gate",
+          "Characters": [
+            {
+              "Name": "Mikul",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Key to the crypt",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Kalkstein",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Key to the crypt",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "262"
+            }
+          ]
+        },
+        {
+          "Id": "287",
+          "Name": "Outskirts crypt",
+          "Characters": [
+            {
+              "Name": "Ozzrel",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Alghul\u2019s head",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "262"
+            }
+          ]
+        },
+        {
+          "Id": "290",
+          "Name": "Odo\u2019s house",
+          "Characters": [
+            {
+              "Name": "Odo",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "262"
+            }
+          ]
+        },
+        {
+          "Id": "293",
+          "Name": "Old mill",
+          "Characters": [
+            {
+              "Name": "Nadir",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Nadir\u2019s head",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Barghest",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "262"
+            }
+          ]
+        },
+        {
+          "Id": "295",
+          "Name": "Cave under city walls",
+          "Items": [
+            {
+              "Name": "Human remains",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "262"
+            }
+          ]
+        },
+        {
+          "Id": "297",
+          "Name": "Reverend\u2019s church",
+          "Connections": [
+            {
+              "Destination": "262"
+            },
+            {
+              "Destination": "298"
+            }
+          ]
+        },
+        {
+          "Id": "298",
+          "Name": "Outskirts church crypt",
+          "Connections": [
+            {
+              "Destination": "297"
+            }
+          ]
+        },
+        {
+          "Id": "318",
+          "Name": "Jail",
+          "Characters": [
+            {
+              "Name": "Jethro",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "326",
+          "Name": "Cemetery crypt",
+          "Characters": [
+            {
+              "Name": "Ghoul",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Ghoul blood",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Innocents",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Scoia_tael",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Narration": [
+                {
+                  "Name": "No_time_for_both",
+                  "Attributes": {
+                    "Knowledge": "The innocents are at here with ghouls and necrophages you have no time to save them if you kill us."
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Necrophage",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "28"
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Raymond\u2019s corpse",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "328",
+          "Name": "Angus house"
+        },
+        {
+          "Id": "331",
+          "Name": "Salamandra hideout iron gate",
+          "Connections": [
+            {
+              "Destination": "29"
+            },
+            {
+              "Destination": "40"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Oafish guards",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "City guards",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "337",
+          "Name": "Deepest crypt",
+          "Connections": [
+            {
+              "Destination": "40"
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Crate",
+              "Attributes": {
+                "Value": 10
+              },
+              "Items": [
+                {
+                  "Name": "Gellert\u2019s letter",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Formula for the Petri\u2019s Philter potion",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Sewers key",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Assasins",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "344",
+          "Name": "Shani\u2019s house",
+          "Connections": [
+            {
+              "Destination": "182"
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Vine",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Dog tallow",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Grandma",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "357",
+          "Name": "Gate to Old Vizima",
+          "Connections": [
+            {
+              "Destination": "22"
+            }
+          ]
+        },
+        {
+          "Id": "360",
+          "Name": "Field Hospital",
+          "Characters": [
+            {
+              "Name": "Fleder",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Fleder Fang",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Soldier",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Soldiers of the Order",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Scoia_tael",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "57"
+            }
+          ]
+        },
+        {
+          "Id": "362",
+          "Name": "Barricade"
+        },
+        {
+          "Id": "367",
+          "Name": "Somwhere on the road to Kaer Morhen",
+          "Characters": [
+            {
+              "Name": "Savolla",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Professor",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Frightener",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Beast claw",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Azar Javed",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "382",
+          "Name": "Kaer Morhen Triss\u2019es room",
+          "Connections": [
+            {
+              "Destination": "95"
+            }
+          ]
+        },
+        {
+          "Id": "387",
+          "Name": "Kaer Morhen library",
+          "Connections": [
+            {
+              "Destination": "95"
+            }
+          ]
+        },
+        {
+          "Id": "393",
+          "Name": "St. Lebioda\u2019s Hospital garden",
+          "Connections": [
+            {
+              "Destination": "76"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Gardener",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "400",
+          "Name": "Clay pits",
+          "Connections": [
+            {
+              "Destination": "43"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Drowner",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "404",
+          "Name": "Hermits hut",
+          "Characters": [
+            {
+              "Name": "Hermit",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Wreath of Immortelles",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Book on vampires",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                },
+                {
+                  "Name": "Ownership of the witcher\u2019s hut",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "100"
+            }
+          ]
+        },
+        {
+          "Id": "410",
+          "Name": "Swamp forest",
+          "Connections": [
+            {
+              "Destination": "17"
+            },
+            {
+              "Destination": "465"
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Beggartick blossoms",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "415",
+          "Name": "Old mine in the swamp cemetery",
+          "Connections": [
+            {
+              "Destination": "151"
+            },
+            {
+              "Destination": "527"
+            }
+          ]
+        },
+        {
+          "Id": "416",
+          "Name": "Vivaldi and Sons bank",
+          "Connections": [
+            {
+              "Destination": "420"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Ren Grouver",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "419",
+          "Name": "Saint Gregorys tomb",
+          "Connections": [
+            {
+              "Destination": "153"
+            }
+          ]
+        },
+        {
+          "Id": "420",
+          "Name": "Warehouse",
+          "Connections": [
+            {
+              "Destination": "187"
+            },
+            {
+              "Destination": "416"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Fleder",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Group of Salamanders",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "424",
+          "Name": "Maribor gate",
+          "Connections": [
+            {
+              "Destination": "29"
+            }
+          ]
+        },
+        {
+          "Id": "430",
+          "Name": "Old forge"
+        },
+        {
+          "Id": "438",
+          "Name": "Temple quarter slums",
+          "Characters": [
+            {
+              "Name": "Thug",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Key to haunted house",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "Id": "443",
+          "Name": "Haunted house",
+          "Characters": [
+            {
+              "Name": "Half-elf woman",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "448",
+          "Name": "Rode to Lumberjacks\u2019 glade",
+          "Connections": [
+            {
+              "Destination": "46"
+            },
+            {
+              "Destination": "17"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Echinopsae",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Echinops rootstock",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            },
+            {
+              "Name": "Drowner",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "451",
+          "Name": "Nonhuman district",
+          "Connections": [
+            {
+              "Destination": "453"
+            }
+          ]
+        },
+        {
+          "Id": "453",
+          "Name": "Dwarven blacksmith shop",
+          "Characters": [
+            {
+              "Name": "Alvin",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            },
+            {
+              "Name": "Salamanders",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "456",
+          "Name": "House with the wine cellar",
+          "Characters": [
+            {
+              "Name": "Graviers",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ],
+          "Items": [
+            {
+              "Name": "Three bottles of very old wine",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "465",
+          "Name": "Altar of Melitele",
+          "Items": [
+            {
+              "Name": "Ghe\u2019vrath",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Oth",
+              "Attributes": {
+                "Value": 10
+              }
+            },
+            {
+              "Name": "Veen\u2019ah",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "494",
+          "Name": "Outside of Thaler\u2019s place",
+          "Connections": [
+            {
+              "Destination": "80"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Mysterious man",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "497",
+          "Name": "Ramsmeat\u2019s place",
+          "Items": [
+            {
+              "Name": "Dog tallow",
+              "Attributes": {
+                "Value": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "504",
+          "Name": "Gate to Royal Castle",
+          "Connections": [
+            {
+              "Destination": "163"
+            },
+            {
+              "Destination": "57"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Guards of Royal Castle Gate",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "514",
+          "Name": "Cockatrice lair",
+          "Characters": [
+            {
+              "Name": "Greater cockatrice",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              },
+              "Items": [
+                {
+                  "Name": "Trophy head",
+                  "Attributes": {
+                    "Value": 10
+                  }
+                }
+              ]
+            }
+          ],
+          "Connections": [
+            {
+              "Destination": "29"
+            }
+          ]
+        },
+        {
+          "Id": "516",
+          "Name": "Vizima walls"
+        },
+        {
+          "Id": "525",
+          "Name": "Southernmost refugee cave"
+        },
+        {
+          "Id": "527",
+          "Name": "Ancient crypt",
+          "Connections": [
+            {
+              "Destination": "415"
+            }
+          ],
+          "Characters": [
+            {
+              "Name": "Cementaur",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        },
+        {
+          "Id": "528",
+          "Name": "Agnes of Glanville\u2019s lair",
+          "Characters": [
+            {
+              "Name": "Zdenek",
+              "Attributes": {
+                "HP": 100,
+                "Money": 10
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "RSide": {},
+    "Instructions": []
+  }
+]
